@@ -34,4 +34,6 @@ mkdir pcl
 cd pcl/
 git clone https://github.com/PointCloudLibrary/pcl.git
 
+cd ..
+
 ```
